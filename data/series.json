@@ -1,0 +1,16 @@
+[
+    {
+        "id":1,
+        "title":"Supernatural",
+        "year":2005,
+        "seasons":15,
+        "episodes":327
+    },
+    {
+        "id":2,
+        "title":"Dexter",
+        "year":2006,
+        "seasons":8,
+        "episodes":96
+    }
+]

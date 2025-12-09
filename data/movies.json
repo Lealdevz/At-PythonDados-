@@ -1,0 +1,177 @@
+[
+    {
+        "id":1,
+        "title":"Um Sonho de Liberdade",
+        "year":1994,
+        "rating":9.3,
+        "categorias":"Obra-prima"
+    },
+    {
+        "id":2,
+        "title":"O Poderoso Chefão",
+        "year":1972,
+        "rating":9.2,
+        "categorias":"Obra-prima"
+    },
+    {
+        "id":3,
+        "title":"Batman: O Cavaleiro das Trevas",
+        "year":2008,
+        "rating":9.1,
+        "categorias":"Obra-prima"
+    },
+    {
+        "id":4,
+        "title":"O Poderoso Chefão: Parte II",
+        "year":1974,
+        "rating":9.0,
+        "categorias":"Obra-prima"
+    },
+    {
+        "id":5,
+        "title":"12 Homens e uma Sentença",
+        "year":1957,
+        "rating":9.0,
+        "categorias":"Obra-prima"
+    },
+    {
+        "id":6,
+        "title":"O Senhor dos Anéis: O Retorno do Rei",
+        "year":2003,
+        "rating":9.0,
+        "categorias":"Obra-prima"
+    },
+    {
+        "id":7,
+        "title":"A Lista de Schindler",
+        "year":1993,
+        "rating":9.0,
+        "categorias":"Obra-prima"
+    },
+    {
+        "id":8,
+        "title":"O Senhor dos Anéis: A Sociedade do Anel",
+        "year":2001,
+        "rating":8.9,
+        "categorias":"Excelente"
+    },
+    {
+        "id":9,
+        "title":"Pulp Fiction: Tempo de Violência",
+        "year":1994,
+        "rating":8.8,
+        "categorias":"Excelente"
+    },
+    {
+        "id":10,
+        "title":"Três Homens em Conflito",
+        "year":1966,
+        "rating":8.8,
+        "categorias":"Excelente"
+    },
+    {
+        "id":11,
+        "title":"O Senhor dos Anéis: As Duas Torres",
+        "year":2002,
+        "rating":8.8,
+        "categorias":"Excelente"
+    },
+    {
+        "id":12,
+        "title":"Forrest Gump: O Contador de Histórias",
+        "year":1994,
+        "rating":8.8,
+        "categorias":"Excelente"
+    },
+    {
+        "id":13,
+        "title":"Clube da Luta",
+        "year":1999,
+        "rating":8.8,
+        "categorias":"Excelente"
+    },
+    {
+        "id":14,
+        "title":"A Origem",
+        "year":2010,
+        "rating":8.8,
+        "categorias":"Excelente"
+    },
+    {
+        "id":15,
+        "title":"Star Wars: Episódio V - O Império Contra-Ataca",
+        "year":1980,
+        "rating":8.7,
+        "categorias":"Excelente"
+    },
+    {
+        "id":16,
+        "title":"Matrix",
+        "year":1999,
+        "rating":8.7,
+        "categorias":"Excelente"
+    },
+    {
+        "id":17,
+        "title":"Os Bons Companheiros",
+        "year":1990,
+        "rating":8.7,
+        "categorias":"Excelente"
+    },
+    {
+        "id":18,
+        "title":"Interestelar",
+        "year":2014,
+        "rating":8.7,
+        "categorias":"Excelente"
+    },
+    {
+        "id":19,
+        "title":"Um Estranho no Ninho",
+        "year":1975,
+        "rating":8.6,
+        "categorias":"Excelente"
+    },
+    {
+        "id":20,
+        "title":"Seven - Os Sete Crimes Capitais",
+        "year":1995,
+        "rating":8.6,
+        "categorias":"Excelente"
+    },
+    {
+        "id":21,
+        "title":"A Felicidade Não se Compra",
+        "year":1946,
+        "rating":8.6,
+        "categorias":"Excelente"
+    },
+    {
+        "id":22,
+        "title":"O Silêncio dos Inocentes",
+        "year":1991,
+        "rating":8.6,
+        "categorias":"Excelente"
+    },
+    {
+        "id":23,
+        "title":"Os Sete Samurais",
+        "year":1954,
+        "rating":8.6,
+        "categorias":"Excelente"
+    },
+    {
+        "id":24,
+        "title":"O Resgate do Soldado Ryan",
+        "year":1998,
+        "rating":8.6,
+        "categorias":"Excelente"
+    },
+    {
+        "id":25,
+        "title":"À Espera de um Milagre",
+        "year":1999,
+        "rating":8.6,
+        "categorias":"Excelente"
+    }
+]
